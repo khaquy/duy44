@@ -1,5 +1,6 @@
 sfsfks,fs/sf
 
+<<<<<<< HEAD
 adjajdajdjkfsfs
 --------------------------------------
 
@@ -9,3 +10,13 @@ fy-
 hughkfsfsfsfsfsf
 
 ---------------------------
+=======
+
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+sdjfsgjkfskfsl
+ asdhahdja
+asdhajdh k
+adahjkd 
+ adhja
+>>>>>>> e788ddb875617423a81bdee75fca60c94ce4b253
