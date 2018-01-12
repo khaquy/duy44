@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sfsfks,fs/sf
 sfsfs
 fsd,fm,s
@@ -8,3 +9,6 @@ sdjfsgjkfskfsldffsfd
 asdhajdh k
 adahjkd adadadaw
  adhja them gi do 9999999999999999999999999999999999999
+=======
+rhffsfnkesfl;sflslfsfs;
+>>>>>>> origin/develop
